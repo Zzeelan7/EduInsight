@@ -48,3 +48,11 @@ The dataset contains student records with:
 - Explanation: LIME & ELI5 used to interpret feature impact  
 
 ---
+
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to open a Pull Request.
+
+---
+
